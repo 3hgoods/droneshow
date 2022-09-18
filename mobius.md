@@ -1,4 +1,15 @@
 
+## paper
+
+```
+https://koreascience.kr/article/JAKO202005653789686.pdf
+
+
+
+```
+
+
+
 
 ## gcs + gimbal 
 
