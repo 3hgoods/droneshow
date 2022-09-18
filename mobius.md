@@ -3,7 +3,9 @@
 
 ```
 https://koreascience.kr/article/JAKO202005653789686.pdf
-
+https://www.keti.re.kr/mat/w202106171.hwp
+https://www.studocu.com/in/document/aliah-university/human-resource-management/jayan-bhahi-strategy/20039595
+https://www.hackster.io/cssrj/onem2m-autonomous-cooperative-smart-delivery-system-7040d6
 
 
 ```
