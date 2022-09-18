@@ -40,6 +40,14 @@ https://github.com/IoTKETI/nCube-steer
 
 ```
 
+```
+solution
+https://www.hackster.io/cssrj/onem2m-autonomous-cooperative-smart-delivery-system-7040d6
+
+
+
+```
+
 ### youtube
 
 ```
