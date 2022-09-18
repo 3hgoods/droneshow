@@ -3,6 +3,7 @@
 ## gcs + gimbal 
 
 
+```
 https://www.ntis.go.kr/outcomes/popup/popOrg.jsp?rstId=TRKO202100008626
 
 https://github.com/IoTKETI/Local-nCube-MUV
@@ -37,4 +38,13 @@ https://github.com/IoTKETI/dji-sdk-tas
 
 https://github.com/IoTKETI/nCube-steer
 
+```
 
+### youtube
+
+```
+https://www.youtube.com/watch?v=f1VoPCopq70
+
+
+
+```
